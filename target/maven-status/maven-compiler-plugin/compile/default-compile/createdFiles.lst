@@ -19,7 +19,6 @@ com\apbackend\apbackend\security\entity\Rol.class
 com\apbackend\apbackend\security\dto\JwtDto.class
 com\apbackend\apbackend\security\service\UsuarioService.class
 com\apbackend\apbackend\security\service\RolService.class
-.netbeans_automatic_build
 com\apbackend\apbackend\model\hys.class
 com\apbackend\apbackend\dto\dtoHyS.class
 com\apbackend\apbackend\service\EducacionService.class
